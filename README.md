@@ -48,6 +48,7 @@ TODO
 | Deep-Waveform: A Learned OFDM Receiver Based on Deep Complex Convolutional Networks | [zhongyuanzhao / dl_ofdm](https://github.com/zhongyuanzhao/dl_ofdm) |
 | Joint Transceiver Optimization for WirelessCommunication PHY with Convolutional NeuralNetwork | [hlz1992/RadioCNN](https://github.com/hlz1992/RadioCNN)      |
 | Deep Learning for Massive MIMO CSI Feedback                  | [sydney222 / Python_CsiNet](https://github.com/sydney222/Python_CsiNet) |
+| [Beamforming Design for Large-Scale Antenna Arrays Using Deep Learning](http://arxiv.org/abs/1904.03657) | [TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|
 | 5G MIMO Data for Machine Learning: Application to Beam-Selection using Deep Learning | [lasseufpa](https://github.com/lasseufpa)/[5gm-data](https://github.com/lasseufpa/5gm-data) |
 | Deep multi-user reinforcement learning for dynamic spectrum access in multichannel wireless networks | [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access) |
 | DeepNap: Data-Driven Base Station Sleeping Operations through Deep Reinforcement Learning | [zaxliu](https://github.com/zaxliu)/[deepnap](https://github.com/zaxliu/deepnap) |
@@ -81,13 +82,17 @@ Open Dataset, and Algorithms](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumb
   - Vehicular and Drone Communication Systems
   - Applications of Machine Learning in Wireless Communication
   - Building Mobile Communication Systems that Work in Reality!
+# 有用的网页和材料
+* [机器学习和通信结合论文list](https://mlc.committees.comsoc.org/research-library/)
+
 
 <br>贡献者：
 
-WxZhu:
-* [Github](https://github.com/zhuwenxing)  
-* Email:wenxingzhu@shu.edu.cn
+* WxZhu:
+  - [Github](https://github.com/zhuwenxing)  
+  - Email:wenxingzhu@shu.edu.cn
+* [LinTian](https://github.com/TianLin0509)
 
-版本更新：
+<br>版本更新：
 
 1. 第一版完成：2019-02-21
